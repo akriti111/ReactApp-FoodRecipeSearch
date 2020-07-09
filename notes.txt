@@ -1,0 +1,3 @@
+API used from =>  edamam.com
+npm package => axios => making requests
+npm package => uuid => to generate unique key prop , here unique IDs for each child component for quick rendering of the page  
